@@ -1,5 +1,7 @@
 # Image-Processing-Research-Paper-2
+<br>
 Potato Leaf Disease Classification System with a Neural Approach to Invariant Feature Recognition
+<br>
 Abstract
 <br>
 The Potato Leaf Disease Identification System addresses the critical issue of early detection and classification of diseases affecting potato plants, specifically Early Blight and Late Blight. With agriculture being a vital source of sustenance for a significant portion of the global population, any loss in crop yield due to diseases can have severe consequences. The inability to identify and treat these diseases promptly leads to decreased productivity, resulting in financial losses for farmers and food scarcity for consumers.
